@@ -49,5 +49,5 @@
 
 
 
-  ### 1.6 Result
+  ### 1.5 Result
 #####  Several basic linux commands and the direcotry structure of linux were studied
